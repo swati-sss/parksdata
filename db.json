@@ -3,6 +3,80 @@
     "area": "8,991 km²",
     "date_established": "March 1, 1872",
     "annual_visitors": 4000000,
+    "entry_fee": "$35 per vehicle",
+    "best_season_to_visit": "Late spring to early fall",
     "description": "Yellowstone National Park, nestled primarily in Wyoming, is renowned for its vibrant geothermal wonders, including the Old Faithful geyser. Home to abundant wildlife like bears, wolves, and herds of bison, the park offers endless opportunities for wildlife viewing. Its dramatic canyons, vast forests, and steamy hot springs attract adventurers and nature enthusiasts from around the globe. With more than two million acres of wilderness, visitors can hike, camp, and discover the park’s rugged beauty. Whether witnessing steam rising from colorful pools or marveling at cascading waterfalls, Yellowstone never fails to inspire awe."
+  },
+  "NP002": {
+    "area": "6,641 km²",
+    "date_established": "1885",
+    "annual_visitors": 4000000,
+    "entry_fee": "10 CAD per person/day",
+    "best_season_to_visit": "June to August",
+    "description": "Banff National Park, Canada’s oldest national park, enchants visitors with turquoise lakes and snow-capped peaks. Iconic Lake Louise and Moraine Lake offer postcard-perfect vistas, while countless trails lead to alpine meadows and hidden valleys. Wildlife sightings, including grizzly bears and elk, are common, adding excitement to each adventure. Vibrant mountain towns like Banff provide comforts amid pristine wilderness. In any season—whether skiing in winter or paddling in summer—Banff’s majestic landscapes and crisp mountain air leave a lasting impression."
+  },
+  "NP003": {
+    "area": "14,763 km²",
+    "date_established": "1951",
+    "annual_visitors": 350000,
+    "entry_fee": "$60 per person/day",
+    "best_season_to_visit": "June to October",
+    "description": "Serengeti National Park’s endless plains, scattered with acacia trees, set the stage for Africa’s most dramatic wildlife spectacle—the Great Migration. Millions of wildebeest, zebra, and gazelle traverse the savannah seeking fresh grazing lands, shadowed by predators. The park’s timeless beauty is revealed in dawn safaris, where lions roar in the distance and the horizon seems infinite. Visitors can glide over the landscape by hot air balloon, gaining a unique perspective on this natural wonder. Serengeti’s rich biodiversity and ancient rhythms connect travelers deeply to the continent’s wild heart."
+  },
+  "NP004": {
+    "area": "12,607 km²",
+    "date_established": "1952",
+    "annual_visitors": 1000000,
+    "entry_fee": "Free",
+    "best_season_to_visit": "December to February",
+    "description": "Fiordland National Park in New Zealand is a world of dramatic fjords, moss-draped forests, and plunging waterfalls. Milford Sound, carved by glaciers, is often referred to as the ‘Eighth Wonder of the World.’ Kayakers and hikers find pristine tranquility amid towering peaks and mirror-like lakes. In this lush rainforest, heavy rainfall nurtures ferns, lichens, and rare birds, creating an ethereal atmosphere. Each corner of Fiordland unveils another glimpse of nature’s artistry, offering a profound, lasting impression of untouched wilderness."
+  },
+  "NP005": {
+    "area": "19,485 km²",
+    "date_established": "1926",
+    "annual_visitors": 1800000,
+    "entry_fee": "ZAR 400 per person/day",
+    "best_season_to_visit": "May to September",
+    "description": "Kruger National Park in South Africa is synonymous with wildlife abundance, including the famed ‘Big Five.’ Visitors can embark on self-drives or guided safaris, discovering lions stalking prey, elephants roaming in herds, and rhinos grazing at watering holes. Ancient rock art sites reveal human presence spanning millennia, adding cultural depth to the safari experience. The park’s conservation efforts aim to preserve this delicate ecosystem for future generations. Kruger is a journey into Africa’s rugged soul, leaving travelers humbled and inspired."
+  },
+  "NP006": {
+    "area": "2,400 km²",
+    "date_established": "1959",
+    "annual_visitors": 250000,
+    "entry_fee": "CLP 25,000 (~$30 USD)",
+    "best_season_to_visit": "November to February",
+    "description": "Torres del Paine National Park, in Chilean Patagonia, beckons hikers and nature lovers to a land of jagged granite peaks, azure lakes, and ice-blue glaciers. Winds sculpt the landscape, and guanacos graze beneath the watchful eyes of condors. Multi-day treks reveal roaring waterfalls and broad valleys that shift in mood with changing weather. Each sunrise casts a unique palette of pinks and oranges upon the towering spires. It’s a place where nature’s raw power and stunning splendor converge, imprinting memories on every visitor."
+  },
+  "NP007": {
+    "area": "296.85 km²",
+    "date_established": "1949",
+    "annual_visitors": 1700000,
+    "entry_fee": "180 HRK (~$25 USD)",
+    "best_season_to_visit": "Late spring to early summer",
+    "description": "Plitvice Lakes National Park in Croatia captivates with cascading waterfalls, turquoise lakes, and lush green woodlands. Wooden footpaths meander over crystal-clear waters, granting visitors panoramic views of natural terraces formed over millennia. The lakes’ colors shift with sunlight and mineral content, creating a kaleidoscope of blues and greens. This UNESCO World Heritage site remains carefully protected to preserve its pure, tranquil environment. Plitvice’s serene beauty and gentle sounds of flowing water welcome travelers seeking a peaceful respite in nature."
+  },
+  "NP008": {
+    "area": "95 km²",
+    "date_established": "1986",
+    "annual_visitors": 2500000,
+    "entry_fee": "100 TRY (~$6 USD)",
+    "best_season_to_visit": "April to June, September to October",
+    "description": "Göreme National Park in Turkey’s Cappadocia region is a surreal landscape of sculpted rock formations known as ‘fairy chimneys.’ Hidden within these rocks lie ancient churches and monasteries adorned with centuries-old frescoes. Early morning hot air balloon rides offer a bird’s-eye view of valleys painted in pastel hues. Exploring on foot reveals narrow canyons, cave dwellings, and whispers of an ancient past. Göreme’s unique blend of geology and history invites travelers into a timeless, dreamlike world."
+  },
+  "NP009": {
+    "area": "19,804 km²",
+    "date_established": "1979",
+    "annual_visitors": 210000,
+    "entry_fee": "AUD 40",
+    "best_season_to_visit": "May to September",
+    "description": "Kakadu National Park in Australia’s Northern Territory is a tapestry of wetlands, cliffs, and Aboriginal cultural heritage. Millennia-old rock paintings tell stories of creation and survival, weaving myth and memory into the land. Visitors can encounter crocodiles basking in the sun, flocks of waterbirds in shimmering billabongs, and lush greenery that transforms with the seasons. Here, nature and culture co-exist in harmony, each deepening appreciation for the other. Kakadu’s profound beauty and richness grant an unforgettable glimpse into an ancient, living landscape."
+  },
+  "NP010": {
+    "area": "2,000 km²",
+    "date_established": "1982",
+    "annual_visitors": 5000000,
+    "entry_fee": "200 CNY (~$30 USD)",
+    "best_season_to_visit": "April to October",
+    "description": "Guilin and the Lijiang River National Park in China unveil a world of mist-shrouded karst peaks and winding waterways. Limestone hills rise dramatically from green rice terraces, while fishermen glide along the river with cormorants trained to catch fish. Traditional villages nestle against this dreamlike backdrop, inspiring countless poets and painters through the centuries. A gentle boat ride reveals the river’s tranquil rhythm and ever-changing scenery. It’s a journey into a serene realm where art and nature gracefully intertwine."
   }
 }
